@@ -8,18 +8,15 @@
 
 ## В результате тестирования выявлены следующие дефекты:
 
-* [Не корректно проверяются номера карт  16 знаков](https://github.com/cris120480/javaQA23_1.2.git)
-
-* 
-* Не корректно проверяются номера карт  16 знаков. 
-
+* [Не корректно проверяются номера карт  16 знаков](https://github.com/cris120480/javaQA23_1.2/issues/1)
+ 
 
 ## Описание процесса тестирования
 
 
 
 ### В процессе тестирования использовались следующие артефакты*:
-* 1. Введение в Java. Задача №2 - Credit Card Number Validator
+* Введение в Java. Задача №2 - Credit Card Number Validator
 * [«Как сдавать задачи»](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 * [«Пример кода»](https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java)
 * [«Пример отчета о тестировании»](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/report.md)
